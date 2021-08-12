@@ -7,7 +7,7 @@ on:
       - "CODEOWNERS"
       - "README.md"
     branches:
-      - main
+      - ci-test
 
 jobs:
   validation:
